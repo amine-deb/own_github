@@ -1,3 +1,3 @@
-#				PYTHON ART
+#				HOST YOUR OWN GITHUB
 
-##Basis to build helpful python scripts for DevOps, linux sysAdmin and cybersecurity ^_^
+## this docker-compose template aimes to help building your own private github server, the image is based on Ggogs, an open source git server based on GO language
